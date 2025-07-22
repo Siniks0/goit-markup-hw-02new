@@ -28,8 +28,10 @@ a {
 
 /* header */
 .body {
-    font-family: sans-serif;
-    color: #2E2F42
+    font-family:"Roboto", sans-serif;
+    color: #434445;
+    background-color: #ffffff;
+    
 }
 
 .header-logo {
@@ -46,10 +48,14 @@ a {
     color: #2E2F42;
 }
 
-.header-nav-list {
-    color: #2E2F42;
-    font-family: sans-serif, "Raleway";
-    font-weight: 700;
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42
+;
+
 }
 
 .header-address-item {
