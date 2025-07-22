@@ -28,7 +28,7 @@ a {
     font-family:sans-serif;
     color:#2E2F42
 }
-.WEB {
+.header-logo {
     font-family:'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -116,7 +116,7 @@ a {
 .footer-down {
     color: #2E2F42;
 }
-        
+
     
 .Portfolio {display: flex;
 justify-content: center;
